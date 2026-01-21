@@ -1,57 +1,47 @@
-# רדיו גלי הים התיכון — Generative Engine Optimization Map
-
-> A תקשורת ובידור business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-cd199cb7.zappy5.app
+https://example.com
 רדיו גלי הים התיכון - תחנת רדיו אונליין המשדרת 24/7 מוזיקה ים תיכונית נוסטלגית. הצטרפו למסע מוזיקלי מרגש עם שידורי רדיו בשידור חי.
 
 ### תוכניות
-https://-cd199cb7.zappy5.app/programs
+https://example.com/programs
 גלו את מגוון התוכניות המיוחדות של רדיו גלי הים התיכון - מוזיקה ים תיכונית נוסטלגית, שידורי רדיו בשידור חי ותוכניות מרתקות לכל שעות היום.
 
 ### אודות
-https://-cd199cb7.zappy5.app/about
+https://example.com/about
 הכירו את רדיו גלי הים התיכון - תחנת רדיו ים תיכונית אונליין המוקדשת לשמירה והפצת מוזיקה נוסטלגית. גלו את הסיפור, החזון והערכים שלנו.
 
 ### צור קשר
-https://-cd199cb7.zappy5.app/contact
+https://example.com/contact
 צרו קשר עם רדיו גלי הים התיכון - תחנת רדיו ים תיכונית אונליין. שלחו לנו הודעה, הצטרפו לקהילה או שתפו את הבקשות המוזיקליות שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-cd199cb7.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-cd199cb7.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-cd199cb7.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About רדיו גלי הים התיכון
-רדיו גלי הים התיכון is a business in the תקשורת ובידור industry.
-
-## Target Audience
-אוהבי מוזיקה נוסטלגית ים תיכונית
-
-## Industry
-תקשורת ובידור
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-cd199cb7.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-cd199cb7.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
